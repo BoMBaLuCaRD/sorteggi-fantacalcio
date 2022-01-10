@@ -1,0 +1,8 @@
+{
+  "name": "Sorteggi Fantacalcio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8968d19e"
+}
